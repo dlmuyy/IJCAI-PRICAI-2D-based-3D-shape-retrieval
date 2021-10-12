@@ -1,4 +1,5 @@
 # IJCAI-PRICAI 2020 3D AI Challenge: Image-based 3D Shape Retrieval 
+# Created by Yue Zhao, Tianjin University
 
 ## Data Preparation 
 
