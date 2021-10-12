@@ -5,7 +5,7 @@
 
 *Data Preparation
 
-* Please make sure that the training and testing data have been downloaded and put into "dataset/train_data" and "dataset/test_data", respectively.
+* Please make sure that the training and testing data have been downloaded and put into "dataset/train_data" and "dataset/test_data", respectively. The data is from the IJCAI-PRICAI 2020 AI challenge 2D image based 3D shape retrieval competition.
 
 * For representing a 3D shape, we utilized 5 typical views of a 3D shape, which are rendered based on the official Toolbox. The following images represent the rendered views of 0000001.obj. 
 
