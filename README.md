@@ -9,15 +9,14 @@
 * For representing a 3D shape, we utilized 5 typical views of a 3D shape, which are rendered based on the official Toolbox. The following images represent the rendered views of 0000001.obj. 
 
   <center class='half'>
-      <img src="dataset\examples\0000005.png" alt="0000005" style="zoom:25%;" />
-      <img src="dataset\examples\0000005.png" alt="0000006" style="zoom:25%;" />
-      <img src="dataset\examples\0000007.png" alt="0000007" style="zoom:25%;" />
-      <img src="dataset\examples\0000008.png" alt="0000008" style="zoom:25%;" />
-      <img src="dataset\examples\0000009.png" alt="0000009" style="zoom:25%;" />
+      <img src="dataset\examples\0000005.png" alt="0000005" style="zoom:10%;" />
+      <img src="dataset\examples\0000005.png" alt="0000006" style="zoom:10%;" />
+      <img src="dataset\examples\0000007.png" alt="0000007" style="zoom:10%;" />
+      <img src="dataset\examples\0000008.png" alt="0000008" style="zoom:10%;" />
+      <img src="dataset\examples\0000009.png" alt="0000009" style="zoom:10%;" />
   <center>
 
-  
-
+ 
 ### Training
 
 Unlike the baseline method, which divides the training process into two stages, we directly train our proposed network for one stage, considering modality-specific feature learning and cross-modality alignment at the same time. 
